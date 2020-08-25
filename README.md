@@ -1,17 +1,4 @@
 # SciPy 2018 Tutorial: Pandas .head() to .tail()
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/deniederhut/Pandas-Tutorial-SciPyConf-2018/master)
-
-### https://github.com/deniederhut/Pandas-Tutorial-SciPyConf-2018
-
-Cluster URL: http://104.155.138.8
-
-#### Presented by:
-- [Tom Augspurger](https://tomaugspurger.github.io/), [Anaconda, Inc.](https://anaconda.org/)
-- [Joris Van den Bossche](https://jorisvandenbossche.github.io/), [Université Paris-Saclay Center for Data Science](https://www.datascience-paris-saclay.fr/)
-- [Dillon Niederhut](https://dillon.niederhut.us), [Enthought Inc.](https://www.enthought.com)
-
-
 ## First-Time Setup
 
 #### 1. Install Python
@@ -77,7 +64,21 @@ python check_environment.py
 ```sh
 jupyter notebook
 ```
+## About me
 
-## Questions? Problems?
+**Piyush Pathak**
 
-You may post messages to the slack channel for this tutorial at: [https://scipy2018.slack.com](https://scipy2018.slack.com)
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
+
+
